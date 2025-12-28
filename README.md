@@ -53,9 +53,5 @@ Stores rental transactions.
    source queries.sql;
    ```
 
-## Requirements Met
-- [x] CREATE TABLE SQL with constraints
-- [x] Insert sample data
-- [x] JOIN query, EXISTS query, WHERE query, GROUP BY + HAVING query
-- [x] Comments explaining each query
-- [x] Clean README.md
+
+
